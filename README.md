@@ -3,6 +3,7 @@ About Dataset
 Context
 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+DATASET LINK:-https://www.kaggle.com/mlg-ulb/creditcardfraud/download
 
 The problem that I am going to Solve is to understand the features and gather insights to identify the fraud transactions. I am going to perform oversampling using Smote to balance the data.
 
